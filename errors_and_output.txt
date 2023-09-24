@@ -1,0 +1,8 @@
+C:\Users\Antho\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py:1056: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.musiclibrary.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+Traceback (most recent call last):
+  File "C:\Users\Antho\temp.py", line 65, in <module>
+    composer.access_instrument_library()
+  File "C:\Users\Antho\temp.py", line 34, in access_instrument_library
+    raise Exception("Failed to access the instrument library.")
+Exception: Failed to access the instrument library.
